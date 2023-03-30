@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>recommended movies</title>
+    </head>
+    <body>
+        <h2>Here are the movies we recommend you based on your liking</h2>
+        {% for mov in data %} 
+            <h5>{{mov}}</h5>
+        {% endfor %}
+        <br><br>
+        <form id="home" method="post" action="/home">
+            <input type="submit" name="home" id="home" value="home">
+        </form>
+
+    </body>
+</html>
