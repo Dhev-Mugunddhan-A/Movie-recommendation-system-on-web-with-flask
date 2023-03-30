@@ -2,7 +2,7 @@
 
 <p>First download all the files in your system and follow the directory layout for storing the files.
   <br>
-Name a folder flaskr in your project directory and store your "__init__.py" file.
+Name a folder flaskr in your project directory and store your "__init__.py" and "model.py" files.
   <br>
 Create two other folder named static and templates. 
   <br>
@@ -11,6 +11,8 @@ Store the "style.css" in static folder
 Store the "login.html","index.html","success.html" files in the templates directory
   <br>
 Once you are done with your directory structure, its time to run the file
+<br>
+  Run the model.py file separately in an IDE or command prompt terminal. 
   <br>
 Now open your project directory i.e the directory above the flaskr folder in the command prompt terminal.
   <br>
