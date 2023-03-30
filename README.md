@@ -1,6 +1,6 @@
 # Movie-recommendation-system-on-web-with-flask
 
-First download all the files in your system and follow the directory layout for storing the files. 
+<p>First download all the files in your system and follow the directory layout for storing the files. <p>
 Name a folder flaskr in your project directory and store your "__init__.py" file. 
 Create two other folder named static and templates. 
 Store the "style.css" in static folder
