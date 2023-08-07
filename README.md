@@ -8,7 +8,7 @@ Store the "model.py" file in your project directory"
 <br>
 Create two other folder named static and templates under flaskr folder
   <br>
-Store the "style.css" in static folder
+Store the "style.css" and "style1.css" in static folder
   <br>
 Store the "login.html","index.html","success.html" files in the templates directory
   <br>
